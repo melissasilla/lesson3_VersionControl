@@ -12,7 +12,7 @@ body {
     display: block;
     width: 100%;
     text-align: center;
-    background: url('http://placehold.it/1900x500') no-repeat center center scroll;
+    background: url('https://lh3.googleusercontent.com/PwyS2vNpxplJT4Z3lkhviZPAEcA6EE-61KharPYFfEJMlVZO7sW6ajSe-day2KIE9g=h900')no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -59,7 +59,7 @@ footer {
     margin: 50px 0;
 }
 
-@media(max-width:1200px) {
+@media(max-width:1400px) {
     .headline h1 {
         font-size: 140px;
     }

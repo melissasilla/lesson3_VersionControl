@@ -4,15 +4,15 @@
 LIS 2360:  Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+02/02/2017
 
 ## Student Name:  
-(First and Last Name)
+Melissa Silla
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+In assignment 3, we learned how to use git commands with Cloud9 and how to transfer our local repository, Cloud9, to our remote repository, Github.
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Version Control System
+2. Git Basics
+3. Setting up a Git repository 
